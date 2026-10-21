@@ -2,8 +2,6 @@
 
 [Checkout this blog](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/#interactive-markdown-editor)
 
-Use code or anything to see preview.
-
 ### Paragraph
 
 Normal Text
